@@ -2,6 +2,7 @@
   "name": "fullstack_toy_project",
   "version": "1.0.0",
   "description": "",
+  "author": "Hou Ben Ng",
   "scripts": {
     "start": "npm run start:web & npm run start:server",
     "start:web": "cd frontend && npm start && cd ..",
@@ -14,7 +15,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "prettier": "^2.4.1"
